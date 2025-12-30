@@ -4,3 +4,4 @@ Feature A implemented
 Feature B implemented
 Feature C implemented
 All features can change system configuration.
+All features are fully tested and documented.
