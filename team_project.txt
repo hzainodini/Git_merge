@@ -5,3 +5,4 @@ Feature B implemented
 Feature C implemented
 All features can change system configuration.
 All features are fully tested and documented.
+Future updates will improve performance and usability.
