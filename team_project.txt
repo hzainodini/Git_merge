@@ -3,3 +3,4 @@ Version 1.0
 Feature A implemented
 Feature B implemented
 Feature C implemented
+All features can change system configuration.
